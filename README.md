@@ -1,4 +1,4 @@
 # NN
-Neural Network Algebra
+Neural Network Algorithms.
 
 All right preserved by Cino.
